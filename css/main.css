@@ -2,6 +2,7 @@ body {
 	font-family: Arial, Helvetica, sans-serif;
 	margin-top: 150px;
 	margin-left: 200px;
+    background-color: #F5F2F3;
 
 }
 
@@ -14,7 +15,7 @@ form {
 	float: left;
 }
 
-input[type=text], input[type=password] {
+input[type=email], input[type=password] {
     width: 100%;
     padding: 12px 20px;
     margin: 10px 0 10px 0;
